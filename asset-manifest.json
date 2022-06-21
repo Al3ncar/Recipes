@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Recipes/static/js/main.70ce377e.js",
+    "static/media/backrice.png": "/Recipes/static/media/backrice.7417fae2c0eebf74b629.png",
+    "index.html": "/Recipes/index.html",
+    "main.70ce377e.js.map": "/Recipes/static/js/main.70ce377e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.70ce377e.js"
+  ]
+}
