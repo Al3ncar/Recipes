@@ -1,9 +1,18 @@
-import React from "react"
+import React from "react";
+import styled from "styled-components";
 
-export default function (){
+const Main = styled.main`
+background: red;
+height: 30vw;
+
+`
+
+export default function App(){
     return(
-        <div>
+        <Main>
             <h1>Main</h1>
-        </div>
+            <h2>hi</h2>
+
+        </Main>
     )
 }
