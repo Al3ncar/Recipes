@@ -3,8 +3,9 @@ import BackRice from "../imgs/backrice.png"
 
 import styled from "styled-components"
     const Header = styled.header`
-        width:100%;
+        width:97%;
         height:100vh;
+        margin: auto;
         background-image:url(${BackRice});
         background-repeat:no-repeat;
         background-size:100vw;
