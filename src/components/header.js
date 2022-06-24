@@ -77,7 +77,6 @@ export default function App(){
             </ContNav>
             <ContReci>
                 <h2>RECIPES</h2>
-                <p>KJDFLFKLJDLAJSSDLKA</p>
             </ContReci>
         </Header>
     )
