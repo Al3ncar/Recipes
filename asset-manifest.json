@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Recipes/static/js/main.b9b7c189.js",
+    "main.js": "/Recipes/static/js/main.b6e93da8.js",
     "static/media/backrice.png": "/Recipes/static/media/backrice.7417fae2c0eebf74b629.png",
     "static/media/colher.png": "/Recipes/static/media/colher.054c6b97dc4435872d98.png",
     "static/media/fatia-de-bolo.png": "/Recipes/static/media/fatia-de-bolo.6cf44c8d7f5868bef2f1.png",
@@ -11,9 +11,9 @@
     "static/media/pint.svg": "/Recipes/static/media/pint.3ca91020e565fc1f943a015c382ec4bc.svg",
     "index.html": "/Recipes/index.html",
     "static/media/fc.svg": "/Recipes/static/media/fc.f7edc4fd294f34d7d29a83724e624fcb.svg",
-    "main.b9b7c189.js.map": "/Recipes/static/js/main.b9b7c189.js.map"
+    "main.b6e93da8.js.map": "/Recipes/static/js/main.b6e93da8.js.map"
   },
   "entrypoints": [
-    "static/js/main.b9b7c189.js"
+    "static/js/main.b6e93da8.js"
   ]
 }
