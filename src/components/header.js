@@ -5,13 +5,17 @@ import styled from "styled-components"
     const Header = styled.header`
         width:97%;
         height:100vh;
-        margin: auto;
+        margin: 1.5%;
         background-image:url(${BackRice});
         background-repeat:no-repeat;
         background-size:100vw;
         background-position:center 40%;
         display:flex;
         flex-direction:column;
+        @media (max-width: 500px){
+            background-size:cover;
+            background-position: 95% top;
+        }
     `
     const ContNav = styled.section`
         width:100%;
@@ -19,6 +23,9 @@ import styled from "styled-components"
         display:flex;
         justify-content:space-between;
         align-items:center;
+        @media (max-width: 500px){
+            display:none;
+        }
     `
     const ContTitl = styled.div`
         width:30%;
@@ -59,6 +66,10 @@ import styled from "styled-components"
         display:flex;
         align-items:center;
         justify-content: center;
+
+        @media (max-width: 500px){
+            font-size: 6vw;
+        }
     `
 export default function App(){
     return(

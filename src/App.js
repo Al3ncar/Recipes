@@ -1,7 +1,8 @@
 import React from "react"
 
 import Header from "./components/header"
-import Main from "./components/main"
+import Main from "./components/mains/main"
+import Footer from "./components/footer.js"
 import GlobStyle from "./styled"
 
 export default function App(){
@@ -10,6 +11,7 @@ export default function App(){
       <GlobStyle/>
       <Header/>
       <Main/>
+      <Footer/>
     </main>
   )
 }
