@@ -8,7 +8,7 @@ import styled from "styled-components"
         margin: 1.5%;
         background-image:url(${BackRice});
         background-repeat:no-repeat;
-        background-size:100vw;
+        background-size:cover;
         background-position:center 40%;
         display:flex;
         flex-direction:column;
