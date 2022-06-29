@@ -21,9 +21,10 @@ const H1 = styled.h1`
     color: #373737;
 `
 const Barra = styled.div`
-width: 3.8vw;
-margin-top: 2%;
-border:solid #373737;
+width: 9%;
+border:solid #373737 0.2vw;
+background-color: #373737;
+margin-top:2%;
 
 @media (max-width: 500px){
     width: 30%;
@@ -76,7 +77,7 @@ const BarraCake = styled.div`
 width: 14%;
 /* width: 2vw;*/
 margin: 20% 0 4% 0%;
-border:solid #373737 0.70vw;
+border:solid #373737 0.13vw;
 background-color: #373737;
 /* border-style: solid;
 border-bottom-width: 0.1px;

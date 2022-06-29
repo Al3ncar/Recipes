@@ -101,10 +101,10 @@ import styled from "styled-components"
   `
   const ContList = styled.nav`
     width:45%;
+    margin-right: 2%;
     @media(max-width:500px){
       width:100%;
       padding:4% 0 0 0;
-
     }
   `
   const List = styled.ul`
